@@ -13,7 +13,7 @@ I bring the same discipline to analytics, with a focus on **statistical reasonin
 - **Analytics:** Python, SQL, pandas, NumPy, Tableau
 - **Statistics & ML:** SciPy, statsmodels, scikit-learn, XGBoost
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **Development:** Git, GitHub, FastAPI, Docker
+- **Development:** Git, GitHub
 
 ### 📚 Currently Exploring
 
