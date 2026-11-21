@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyanka!
 
-<!--
-**priyanka-manoj/priyanka-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics | Machine Learning | Applied AI**
 
-Here are some ideas to get you started:
+I'm transitioning into Data Science, bringing a background in Software QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience in QA shaped how I approach analytical problems: understanding requirements, structuring investigations, validating data, and automating repetitive tasks.
+
+I bring the same discipline to analytics, with a focus on **statistical reasoning, reproducible workflows, and translating data into meaningful business insights.**
+
+### 🛠️ Technical Toolkit
+
+- **Analytics:** Python, SQL, pandas, NumPy, Tableau
+- **Statistics & ML:** SciPy, statsmodels, scikit-learn, XGBoost
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Development:** Git, GitHub, FastAPI, Docker
+
+### 📚 Currently Exploring
+
+🧪 A/B Testing & Causal Inference  
+📈 Time Series Forecasting  
+🤖 NLP & Applied AI
+
