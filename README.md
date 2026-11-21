@@ -20,4 +20,5 @@ I bring the same discipline to analytics, with a focus on **statistical reasonin
 🧪 A/B Testing & Causal Inference  
 📈 Time Series Forecasting  
 🤖 NLP & Applied AI
+🌐 Streamlit
 
